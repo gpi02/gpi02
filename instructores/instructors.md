@@ -13,7 +13,7 @@ layout: instructor
 
 
 *e-mail | alejandro.flores@upch.pe*
-><div style="text-align: justify">Estudiante de Ingenieria Biomedica con interés en el area de Ingeniería de Tejidos y Biomateriales. </div>
+><div style="text-align: justify">Estudiante de Ingenieria Biomedica con interés en el área de Ingeniería de Tejidos y Biomateriales. </div>
 
 
 ### Marco Lagones
