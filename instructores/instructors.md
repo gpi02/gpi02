@@ -31,7 +31,7 @@ layout: instructor
 ### Arelí Sanchez
 ![Alt text](/instructors/luis_pena.jpg){:height="140px" width="140px"}
 
-*e-mail | areli.sanchez@upch.pe*
+*e-mail | areli.sanchezz@upch.pe*
 ><div style="text-align: justify">Area de interés: Biomecánica y Rehabilitación</div> 
 
 
