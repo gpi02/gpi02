@@ -2,14 +2,14 @@
 layout: instructor
 ---
 ### Henry Felén
-![Alt text](/instructors/pablo_moreno.png){:height="140px" width="140px"}
+![Alt text](/gpi02/images/henry.jpg){:height="140px" width="140px"}
 
 *e-mail | henry.felen@upch.pe*
 ><div style="text-align: justify">Area de interés: Ingeniería Clínica</div>
 
 
 ### Alejandro Flores
-![Alt text](/gpi02/images/alejandroo.jpg){:height="140px" width="140px"}
+![Alt text](/gpi02/images/alejandro.jpg){:height="140px" width="140px"}
 
 
 *e-mail | alejandro.flores@upch.pe*
@@ -17,19 +17,19 @@ layout: instructor
 
 
 ### Marco Lagones
-![Alt text](/instructors/pablo_moreno.png){:height="140px" width="140px"}
+![Alt text](/gpi02/images/marco.jpg){:height="140px" width="140px"}
 
 *e-mail | marco.lagones@upch.pe*
 ><div style="text-align: justify">Area de interés: Biomecánica y Rehabilitación</div>
 
 ### Andre Rubio
-![Alt text](/instructors/pablo_moreno.png){:height="140px" width="140px"}
+![Alt text](/gpi02/images/andre.jpg){:height="140px" width="140px"}
 
 *e-mail | andre.rubio@upch.pe*
 ><div style="text-align: justify">Area de interés: Señales e Imágenes Biomédicas</div>
 
 ### Arelí Sanchez
-![Alt text](/instructors/luis_pena.jpg){:height="140px" width="140px"}
+![Alt text](/gpi02/images/areli.jpg){:height="140px" width="140px"}
 
 *e-mail | areli.sanchezz@upch.pe*
 ><div style="text-align: justify">Area de interés: Biomecánica y Rehabilitación</div> 
